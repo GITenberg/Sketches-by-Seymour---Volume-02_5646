@@ -1,0 +1,24 @@
+_repo: Sketches-by-Seymour---Volume-02_5646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seymour, Robert
+    birthdate: 1798
+    deathdate: 1836
+    gutenberg_agent_id: '1828'
+    url: http://www.gutenberg.org/2009/agents/1828
+description: ''
+gutenberg_issued: '2004-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+- GITenberg
+title: Sketches by Seymour — Volume 02
+url: http://www.gutenberg.org/ebooks/5646
